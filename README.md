@@ -23,8 +23,8 @@ and visualizations — no coding required!
 - Streamlit
 
 ## How to Run Locally
-pip install -r requirements.txt
-python -m streamlit run app.py
+- pip install -r requirements.txt
+- python -m streamlit run app.py
 
 ## Screenshots
 ![dashboard](app_homescreen.png)
