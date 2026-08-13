@@ -27,4 +27,4 @@ pip install -r requirements.txt
 python -m streamlit run app.py
 
 ## Screenshots
-[Add your app screenshot here]
+![dashboard](app_homescreen.png)
